@@ -1,15 +1,16 @@
 {
-  "name": "github-api",
-  "version": "3.1.0",
+  "name": "mempic-node-github-api",
+  "version": "3.1.1",
   "license": "BSD-3-Clause-Clear",
-  "description": "A higher-level wrapper around the Github API.",
+  "description": "A wrapper around the Github API.",
   "main": "dist/components/GitHub.js",
   "contributors": [
     "Ændrew Rininsland <aendrew.rininsland@thetimes.co.uk> (http://www.aendrew.com)",
     "Aurelio De Rosa <a.derosa@audero.it> (http://www.audero.it/)",
     "Clay Reimann <clayreimann@gmail.com> (http://clayreimann.me)",
     "Michael Aufreiter (http://substance.io)",
-    "Mathieu Dutour <mathieu@dutour.me> (https://github.com/mathieudutour)"
+    "Mathieu Dutour <mathieu@dutour.me> (https://github.com/mathieudutour)",
+    "Igor Mats <igor.mats@gmail.com> (https://github.com/igormats)"
   ],
   "readmeFilename": "README.md",
   "scripts": {
@@ -89,13 +90,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/github-tools/github.git"
+    "url": "git://github.com/mempic/mempic-node-github-api.git"
   },
   "keywords": [
     "github",
     "api"
   ],
   "bugs": {
-    "url": "https://github.com/github-tools/github/issues"
+    "url": "https://github.com/mempic/mempic-node-github-api/issues"
   }
 }
